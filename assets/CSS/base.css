@@ -1,0 +1,28 @@
+/* Global Variable */
+
+:root {
+  --color-black:#000;
+  --color-white:#fff;
+  --color-text:#333;
+  --header-height:80px;
+  --hover-color:#f65e39;
+}
+
+/* Setting all */
+
+* {
+  list-style: none;
+  box-sizing: inherit;
+  text-decoration: none;
+  outline: none;
+}
+
+/* Setting html */
+
+html {
+  font-size: 62.5%;
+  line-height: 1.6rem;
+  box-sizing: border-box;
+  font-family: 'Roboto', sans-serif;
+}
+
